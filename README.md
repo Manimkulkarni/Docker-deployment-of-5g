@@ -16,5 +16,7 @@ This project automates the deployment of a 5G core using Docker containers and A
 🛠️ Step-by-Step Setup Guide
 🧰 1. Install Dependencies
 Ensure your system has the required dependencies installed.
-'sudo apt update'
+
+<pre>'bash sudo apt update'</pre>
+
 'sudo apt install -y docker.io docker-compose python3 python3-pip ansible git'
